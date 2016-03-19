@@ -1,3 +1,3 @@
-# Summary
+# MUNDARIJA
 
-* [First Chapter](chapter1.md)
+* [Docker bilan Windowsda ishlashni boshlash](chapter1.md)
