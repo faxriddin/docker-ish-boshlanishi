@@ -1,4 +1,4 @@
-# Summary
+# MUNDARIJA
 
 * [Docker - ish boshlanishi](README.md)
 * [Windowsda Docker bilan ishlashni boshlash](chapter1.md)
