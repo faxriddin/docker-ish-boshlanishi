@@ -1,3 +1,3 @@
 # MUNDARIJA
 
-* [Docker bilan Windowsda ishlashni boshlash](chapter1.md)
+* [Windowsda Docker bilan ishlashni boshlash](chapter1.md)
