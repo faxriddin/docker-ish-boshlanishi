@@ -1,1 +1,1 @@
-#Windows uchun Dockerni o'rnatish
+# Windows uchun Dockerni o'rnatish
