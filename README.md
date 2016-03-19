@@ -1,3 +1,3 @@
-# My Awesome Book
+# Docker-Ish-boshlanishi
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Docker bilan birgalikda Windowsda ish boshlanishi.
