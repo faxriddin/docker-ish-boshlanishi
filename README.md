@@ -11,8 +11,9 @@ Bu qo'llanma texnik bo'lmagan faqatgina Dockerni o'rganishga qiziqishi bo'lgan f
     Konteynerda o'zingizni obrazingizni yaratib va uni ishga tushirishni
     Docker Hub hisobingizni va obraz omborini yaratishni
     O'zingizga obraz yaratishni
-    push your image to Docker Hub for others to use
+    Boshqalar ishlatishi uchun obrazni Docker Hubga push qilishni
 
+o'rganasiz.
 The getting started was user tested to reduce the chance of users having problems. For the best chance of success, follow the steps as written the first time before exploring on your own. It takes approximately 45 minutes to complete.
 Make sure you understand…
 
