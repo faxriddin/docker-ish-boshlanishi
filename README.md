@@ -14,8 +14,8 @@ Bu qo'llanma texnik bo'lmagan faqatgina Dockerni o'rganishga qiziqishi bo'lgan f
     Boshqalar ishlatishi uchun obrazni Docker Hubga push qilishni
 
 o'rganasiz.
-Qo'llanma foydalanuvchilar xatoliklarga kamroq duch kelishi maqsadida foydalanuvchi testidan o'tkazilgan. For the best chance of success, follow the steps as written the first time before exploring on your own. It takes approximately 45 minutes to complete.
-Make sure you understand…
+Qo'llanma foydalanuvchilar xatoliklarga kamroq duch kelishi maqsadida foydalanuvchi qo'llanmadan foydalanish testidan o'tkazilgan. Yanada xatoga duch kelmaslik uchun birinchi bor o'zingiz ixtiyoringizga qarab o'rganishdan oldin quyida keltirilgan qadamlarni bosib o'ting. Bu sizdan taxminan 45 minut vaqt oladi.
+Tushunayotganingizga amin bo'ling…
 
 This getting started uses Docker Engine CLI commands entered on the commandline of a terminal window. You don’t need to be experienced using a command line, but you should be familiar with how to open one and type commands.
 
