@@ -4,7 +4,7 @@
 * [Docker - ish boshlanishi](README.md)
 * [Windowsda Docker bilan ishlashni boshlash](chapter1.md)
 * [Windows uchun Dockerni o'rnatish](chapter2.md)
-=======
+
 # Dokerni birga oʻrganamiz
 
 [Doker bilan tanishish](/get_started/index.md)  
